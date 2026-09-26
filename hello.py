@@ -3,6 +3,7 @@ def greet(name):
 
 
 def goodbye(name):
+    """Return a goodbye message for the given name."""
     return f"Goodbye, {name}!"
 
 
